@@ -1,4 +1,5 @@
 # Projeto_Funcionandinho
+Linguagem utilizada_Dart
 
 Equipe;
 Desenvolvedora Francielly Ariel
