@@ -4,12 +4,15 @@ Introdução
 Este projeto de extensão visa proporcionar aos alunos uma experiência prática e colaborativa na construção de um sistema de rede simplificado. Por meio dessa atividade, eles terão a oportunidade de aplicar conceitos fundamentais de arquitetura de sistemas distribuídos, e segurança da informação, além de fortalecer suas habilidades de programação. O projeto incentiva não apenas o aprendizado técnico, mas também o desenvolvimento de habilidades de trabalho em equipe e solução de problemas reais, preparando-os para desafios futuros no campo de redes de computadores.
 
 Documentação
+
 Aqui são apresentadas toda a documentação que foi construída no perído de construção do projeto;
 
 Link para os documentos: https://1drv.ms/w/c/c475b06df5c1e4f8/EadHe8m4UGtPj3Yt9kC-XwIBWq8cEyFM1NzRoEPDrXOpng?e=8WWaF5 
 
 Linguagens utilizadas
+
 Kotlin(Não deu certo muito pesado)
+
 Dart(Linguagem final utilizada)
 
 Ferramentas utilizadas
