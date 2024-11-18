@@ -37,9 +37,12 @@ Aqui será apresentado todos os passos necessários para a utilização do proje
 
 Equipe:
 
-Francielly Ariel Brasil Pinheiro
-Marinalva dos Santos
-Felipe Cartaxo
-Luana Jessica
+   1.Francielly Ariel Brasil Pinheiro
+
+   2.Marinalva dos Santos
+
+   3.Felipe Cartaxo
+
+   4.Luana Jessica
 
 
