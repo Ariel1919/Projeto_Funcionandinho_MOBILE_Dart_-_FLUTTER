@@ -3,7 +3,7 @@
 Introdução
 Este projeto de extensão visa proporcionar aos alunos uma experiência prática e colaborativa na construção de um sistema de rede simplificado. Por meio dessa atividade, eles terão a oportunidade de aplicar conceitos fundamentais de arquitetura de sistemas distribuídos, e segurança da informação, além de fortalecer suas habilidades de programação. O projeto incentiva não apenas o aprendizado técnico, mas também o desenvolvimento de habilidades de trabalho em equipe e solução de problemas reais, preparando-os para desafios futuros no campo de redes de computadores.
 
-#Documentação
+# Documentação
 
 Aqui são apresentadas toda a documentação que foi construída no perído de construção do projeto;
 
@@ -26,7 +26,7 @@ Figma:(Utilizado) https://www.figma.com/files/team/1416534119356254778/all-proje
 
 Project IDX:(Utilizado)https://idx.google.com/projeto2024-5470144
 
-#Instalação
+# Instalação
 Aqui será apresentado todos os passos necessários para a utilização do projeto, seja com o auxílio do XAMPP ou em um servidor na internet.
 
 
@@ -39,10 +39,10 @@ Aqui será apresentado todos os passos necessários para a utilização do proje
    terceiro crie uma area de trabalho no project e cole na main o que foi pego na documentação
 
 
-#Problematização:
+# Problematização:
 Interface Android do site da Uniesp, fazendo isso a interface ficará mais amigável e eficaz, também o auxílio na entrada da biblioteca on-line. ele só não realiza pagamentos.
 
-#Equipe:
+# Equipe:
 
    1.Francielly Ariel Brasil Pinheiro
 
