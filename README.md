@@ -49,7 +49,7 @@ Link para os documentos:
    * terceiro crie uma area de trabalho no project idx e rode o projeto(Procure a pasta lib e main é ali estára o codigo)
 
 3. Metodo
-   * Entre no site project IDX
+   * Entre no site project IDX[https://idx.dev/](url)
    * Abra esta documentação e pegue o codigo [https://1drv.ms/w/c/caf5cd0c091e1cb6/EdKv7HardxxDqt8xQwXUNdUBY7wEHn3frh5ZbgR0pqWVFQ?e=WjjsqU](url)
    * Faça o seu ambiente teste no project e entre
    * Cole o codigo que pegou no arquivo main que esta na lib
