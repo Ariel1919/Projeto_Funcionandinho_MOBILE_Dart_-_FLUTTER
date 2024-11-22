@@ -45,7 +45,13 @@ Link para os documentos:
    * terceiro crie uma area de trabalho no project idx e rode o projeto(Procure a pasta lib e main é ali estára o codigo)
   
 ## Problematização:
-Interface Android do site da Uniesp, fazendo isso a interface ficará mais amigável e eficaz, também a facilidade na ponta do dedo ao realizar a entrada da biblioteca on-line.Não realiza pagamento .
+ Problemática:
+O site da faculdade enfrenta dificuldades de usabilidade, particularmente no acesso à biblioteca online e na navegação em dispositivos móveis.
+
+ Objetivos:
+1. Facilitar o acesso à biblioteca online.
+2. Redesenhar a interface do site para ser mais intuitiva e atraente.
+3. Garantir compatibilidade e funcionalidade em smartphones.
 
 ##
 
