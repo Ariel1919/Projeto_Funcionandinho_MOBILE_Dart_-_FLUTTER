@@ -1,10 +1,14 @@
 # Projeto de Extensão - 2024.2 (Modelo)
 
 ## Introdução
+ Problemática:
+ 
+O site da faculdade enfrenta dificuldades de usabilidade, particularmente no acesso à biblioteca online e na navegação em dispositivos móveis.
 
-Este projeto de extensão visa proporcionar aos alunos uma experiência prática e colaborativa na construção de um sistema de rede simplificado. Por meio dessa atividade, eles terão a oportunidade de aplicar conceitos fundamentais de arquitetura de sistemas distribuídos, e segurança da informação, além de fortalecer suas habilidades de programação. O projeto incentiva não apenas o aprendizado técnico, mas também o desenvolvimento de habilidades de trabalho em equipe e solução de problemas reais, preparando-os para desafios futuros no campo de redes de computadores.
-
-No link abaixo é possível encontrar as principais marcações para a linguagem Markdown.
+ Objetivos:
+1. Facilitar o acesso à biblioteca online.
+2. Redesenhar a interface do site para ser mais intuitiva e atraente.
+3. Garantir compatibilidade e funcionalidade em smartphones.
 
 * [https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
@@ -43,16 +47,13 @@ Link para os documentos:
    * Entre no site do project IDX-[https://idx.dev/](url)
    * Segundo baixe a documentação arquivo: Projeto ok Atualizado
    * terceiro crie uma area de trabalho no project idx e rode o projeto(Procure a pasta lib e main é ali estára o codigo)
-  
-## Problematização:
- Problemática:
- 
-O site da faculdade enfrenta dificuldades de usabilidade, particularmente no acesso à biblioteca online e na navegação em dispositivos móveis.
 
- Objetivos:
-1. Facilitar o acesso à biblioteca online.
-2. Redesenhar a interface do site para ser mais intuitiva e atraente.
-3. Garantir compatibilidade e funcionalidade em smartphones.
+3. Metodo
+   * Entre no site project IDX
+   * Abra esta documentação e pegue o codigo [https://1drv.ms/w/c/caf5cd0c091e1cb6/EdKv7HardxxDqt8xQwXUNdUBY7wEHn3frh5ZbgR0pqWVFQ?e=WjjsqU](url)
+   * Faça o seu ambiente teste no project e entre
+   * Cole o codigo que pegou no arquivo main que esta na lib
+
 
 ##
 
