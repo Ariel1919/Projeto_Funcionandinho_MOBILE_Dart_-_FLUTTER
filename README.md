@@ -40,12 +40,12 @@ Link para os documentos:
 
 ## Instalação
 
-1. Metodo Baixe o zip chamado ProjetoRodando e extraia o arquivo
-   * depois de extrair só passar para o celular e estara rodando
+1. Metodo Baixe o arquivo chamado AppRodando0.2.sha1 
+   * depois de baixar e só passar para o celular e estara rodando.(Para logar/Nome= Nome123/ Email=email123@exemplo.com/ Senha= 123)
    
 2. Metodo se houver imprevistos (Project IDX)
    * Entre no site do project IDX-[https://idx.dev/](url)
-   * Segundo baixe a documentação arquivo: Projeto ok Atualizado
+   * Segundo baixe a documentação arquivo: ProjetoOkAtualizado0.2
    * terceiro crie uma area de trabalho no project idx e rode o projeto(Procure a pasta lib e main é ali estára o codigo)
 
 3. Metodo
