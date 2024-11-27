@@ -49,7 +49,7 @@ Link para os documentos:
    
 2. Metodo se houver imprevistos (Project IDX)
    * Entre no site do project IDX-[https://idx.dev/](url)
-   * Segundo baixe a documentação arquivo: ProjetoOkAtualizado0.2
+   * Segundo baixe a documentação arquivo: ProjetoOkAtualizado0.2.zip
    * terceiro crie uma area de trabalho no project idx e rode o projeto(Procure a pasta lib e main é ali estára o codigo)
 
 3. Metodo
