@@ -21,7 +21,7 @@ Link para os documentos:
 
 ## Linguagens utilizadas
 
-**Dart:**
+**Dart:**(Linguagem usada no projeto)
 
 **Kotlin:**(anteriormente mas no projeto final não)
 
