@@ -40,8 +40,12 @@ Link para os documentos:
 
 ## Instalação
 
-1. Metodo Baixe o arquivo chamado AppRodando0.2.sha1 
-   * depois de baixar e só passar para o celular e estara rodando.(Para logar/Nome= Nome123/ Email=email123@exemplo.com/ Senha= 123)
+1. Metodo Baixe o arquivo chamado AppRODANDO.apk
+   * depois de baixar e só passar para o celular e estara rodando.
+   * (Para logar:
+     * Nome= Nome123
+     * Email=email123@exemplo.com
+     * Senha= 123)
    
 2. Metodo se houver imprevistos (Project IDX)
    * Entre no site do project IDX-[https://idx.dev/](url)
